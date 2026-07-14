@@ -24,6 +24,10 @@
     {
       "id": "@Xsd_Gold_SignaIs1",
       "format": "format2"
+    },
+    {
+      "id": "@bttesteamin",
+      "format": "format1"
     }
   ],
   "trading": {
