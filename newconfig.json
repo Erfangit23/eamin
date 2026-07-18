@@ -7,11 +7,11 @@
   },
   "report_bot": {
     "bot_token": "",
-    "authorized_user_ids": [8848151854]
+    "authorized_user_ids": [8848151854, 8086821238]
   },
   "mt5": {
-    "login": 5052573360,
-    "password": "***",
+    "login": 5053041179,
+    "password": "KoC!0aSq",
     "server": "MetaQuotes-Demo",
     "terminal_path": "",
     "symbol": "XAUUSD"
@@ -22,16 +22,12 @@
       "format": "format1"
     },
     {
-      "id": "@Xsd_Gold_SignaIs1",
-      "format": "format2"
+      "id": "@Gulljanali17",
+      "format": "format3"
     },
     {
       "id": "@bttesteamin",
       "format": "format1"
-    },
-    {
-      "id": "@Gulljanali17",
-      "format": "format3"
     }
   ],
   "trading": {
